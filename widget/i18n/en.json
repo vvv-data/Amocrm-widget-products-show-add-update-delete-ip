@@ -1,0 +1,14 @@
+{
+    "widget":{
+        "name":"All deal products",
+        "short_description":"Shows all the products of the lead in a modal window with the ability to edit",
+        "description":"A button is created in the lead card that displays all the products of this leads in a modal window. Products in the window can be edited, added or deleted.",
+        "tour_description":"Tour description"
+    },
+    "settings":{
+        "api_key":"Secret key:",
+        "login":"login",
+        "account":"account",
+        "button_title": "Show products"
+    }
+}
